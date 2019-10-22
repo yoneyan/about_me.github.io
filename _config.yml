@@ -9,14 +9,14 @@ username: yoneyan
 user_description_1: Thank you for your access. I am yoneyan. My blog (I want to live time leisurely) is <a href="https://yoneyan.dev" target="_blank">https://yoneyan.dev</a>
 user_description_2: 
 user_title: University student
-email: contact@yoneyan.dev
+email: contact@yoneyan.net
 twitter_username: yoneyan_ja
 github_username:  yoneyan
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-77706989-9"
 
 exclude: ['package.json', 'src' , 'node_modules']
 
